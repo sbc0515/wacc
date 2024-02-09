@@ -111,7 +111,7 @@ https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63
 https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/新疆卫视" group-title="卫视",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 ,tvg-id="58" tvg-name="CCTV4K" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/新疆卫视" group-title="CCTV4K",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,CCTV4K-1
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
